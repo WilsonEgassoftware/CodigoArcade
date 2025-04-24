@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Personaje</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #4CAF50, #2196F3); /* verde y azul difuminado */
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container {
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+
+    .personaje {
+      margin-top: 20px;
+      padding: 20px;
+      border: 2px solid #000;
+      border-radius: 10px;
+      background-color: #eee;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Crear Personaje</h2>
+    <form id="formulario">
+      <input type="text" id="nombre" placeholder="Nombre" required><br><br>
+      <input type="text" id="apodo" placeholder="Apodo" required><br><br>
+      <select id="tipo">
+        <option value="Héroe">Héroe</option>
+        <option value="Villano">Villano</option>
+      </select><br><br>
+      <button type="submit">Mostrar Personaje</button>
+    </form>
+
+    <div class="personaje" id="personaje">
+      <h3 id="personajeNombre"></h3>
+      <p id="personajeApodo"></p>
+      <p id="personajeTipo"></p>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("formulario").addEventListener("submit", function(event) {
+      event.preventDefault();
+      
+      const nombre = document.getElementById("nombre").value;
+      const apodo = document.getElementById("apodo").value;
+      const tipo = document.getElementById("tipo").value;
+
+      document.getElementById("personajeNombre").textContent = "Nombre: " + nombre;
+      document.getElementById("personajeApodo").textContent = "Apodo: " + apodo;
+      document.getElementById("personajeTipo").textContent = "Tipo: " + tipo;
+
+      document.getElementById("personaje").style.display = "block";
+    });
+  </script>
+</body>
+</html>
