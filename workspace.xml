@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a35c8e3e-cfef-463a-8466-dd27088a0d45" name="Changes" comment="clases">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Five Nights at Freddys 2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Grand Theft Auto V.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../MDN Web Docs.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Navegador Opera GX.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Navegador Opera.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Rockstar Games Launcher.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TLauncher.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Wondershare Filmora 14.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../msys2-x86_64-20230318.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$ance No 2 Proyecto I Grupo 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$luciones del problema.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$nsigna_Infografía_FTI_2023-20 (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../~$rea de algortimos .docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2w9PkMoKGDowjW4VIK1j7WLKbhL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "708",
+    "RequestMappingsPanelWidth1": "707",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.AccessingDataJpaApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/wiy98/OneDrive/Escritorio/gs-accessing-data-jpa-main/gs-accessing-data-jpa-main/complete",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AccessingDataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.accessingdatajpa.AccessingDataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Physical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35c8e3e-cfef-463a-8466-dd27088a0d45" name="Changes" comment="" />
+      <created>1745450959029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745450959029</updated>
+      <workItem from="1745450960176" duration="2572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="clases" />
+  </component>
+</project>
